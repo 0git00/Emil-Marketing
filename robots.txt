@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://0git00.github.io/MuhammadHarisAfzal/sitemap.xml
+Sitemap: https://0git00.github.io/Emil-Marketing/sitemap.xml
